@@ -1,0 +1,35 @@
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #9333EA;
+    color: #fff;
+}
+
+.logo{
+    width: 450px;
+    height: 60px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    margin-left: 830px;
+    color: black;
+
+}
+
+.user-info img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.logout a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #f00;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

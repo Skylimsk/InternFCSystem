@@ -1,0 +1,28 @@
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #4c9aed;
+    color: #fff;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    margin-left: 980px;
+}
+
+.user-info img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.logout a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #f00;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
